@@ -38,7 +38,7 @@ data = {
     "Qualifier": None,
     "ProfileId": "WAY-ABERDEEN",
     "MasterDataRequired": False,
-    "Notes": "PYTHON RUN",
+    "Notes": "GITHUB SCHEDULED RUN",
     "Components": [
         {
             "ComponentName": "workrelease",
